@@ -1,0 +1,10 @@
+C:\Users\Gerardonano\source\repos\ejemplosIFenformulario\ejemplosIFenformulario\bin\Debug\ejemplosIFenformulario.exe.config
+C:\Users\Gerardonano\source\repos\ejemplosIFenformulario\ejemplosIFenformulario\bin\Debug\ejemplosIFenformulario.exe
+C:\Users\Gerardonano\source\repos\ejemplosIFenformulario\ejemplosIFenformulario\bin\Debug\ejemplosIFenformulario.pdb
+C:\Users\Gerardonano\source\repos\ejemplosIFenformulario\ejemplosIFenformulario\obj\Debug\ejemplosIFenformulario.csprojResolveAssemblyReference.cache
+C:\Users\Gerardonano\source\repos\ejemplosIFenformulario\ejemplosIFenformulario\obj\Debug\ejemplosIFenformulario.Form1.resources
+C:\Users\Gerardonano\source\repos\ejemplosIFenformulario\ejemplosIFenformulario\obj\Debug\ejemplosIFenformulario.Properties.Resources.resources
+C:\Users\Gerardonano\source\repos\ejemplosIFenformulario\ejemplosIFenformulario\obj\Debug\ejemplosIFenformulario.csproj.GenerateResource.Cache
+C:\Users\Gerardonano\source\repos\ejemplosIFenformulario\ejemplosIFenformulario\obj\Debug\ejemplosIFenformulario.csproj.CoreCompileInputs.cache
+C:\Users\Gerardonano\source\repos\ejemplosIFenformulario\ejemplosIFenformulario\obj\Debug\ejemplosIFenformulario.exe
+C:\Users\Gerardonano\source\repos\ejemplosIFenformulario\ejemplosIFenformulario\obj\Debug\ejemplosIFenformulario.pdb
